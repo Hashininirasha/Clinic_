@@ -42,11 +42,11 @@
          </image>
       </ImageView>
       <TextField layoutX="548.0" layoutY="241.0" prefHeight="27.0" prefWidth="149.0" promptText="Enter Your ID" style="-fx-background-color: transparent; -fx-border-color: #4687d9; -fx-border-width: 0px 0px 2px 0px;" />
-      <TextField layoutX="548.0" layoutY="313.0" promptText="Enter Password" style="-fx-background-color: transparent; -fx-border-color: #4687d9; -fx-border-width: 0px 0px 2px 0px;" />
       <Button layoutX="561.0" layoutY="414.0" mnemonicParsing="false" prefHeight="37.0" prefWidth="100.0" style="-fx-background-color: #4687d9;" text="Login" textFill="WHITE">
          <font>
             <Font size="18.0" />
          </font>
       </Button>
+      <PasswordField layoutX="548.0" layoutY="312.0" promptText="Enter Password" style="-fx-background-color: transparent; -fx-border-color: #4687d9; -fx-border-width: 0px  0px 2px 0px;" />
    </children>
 </AnchorPane>
