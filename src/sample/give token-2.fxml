@@ -77,10 +77,16 @@
       <TextField layoutX="409.0" layoutY="278.0" prefHeight="28.0" prefWidth="248.0" style="-fx-background-color: transparent; -fx-border-color: #4687d9; -fx-border-width: 0px 0px 2px 0px;" />
       <TextField layoutX="409.0" layoutY="319.0" prefHeight="28.0" prefWidth="248.0" style="-fx-background-color: transparent; -fx-border-color: #4687d9; -fx-border-width: 0px 0px 2px 0px;" />
       <TextField layoutX="409.0" layoutY="366.0" prefHeight="28.0" prefWidth="248.0" style="-fx-background-color: transparent; -fx-border-color: #4687d9; -fx-border-width: 0px 0px 2px 0px;" />
-      <Button layoutX="643.0" layoutY="440.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="101.0" style="-fx-background-color: #4687d9;" text="Give Token" textFill="WHITE">
+      <Button layoutX="643.0" layoutY="440.0" mnemonicParsing="false" prefHeight="34.0" prefWidth="121.0" style="-fx-background-color: #4687d9;" text="Give Token" textFill="WHITE">
          <font>
-            <Font name="System Bold" size="14.0" />
+            <Font size="18.0" />
          </font>
       </Button>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="40.0" layoutX="599.0" layoutY="14.0" stroke="WHITE" strokeType="INSIDE" width="200.0" />
+      <Text fill="#f4f4f4" layoutX="610.0" layoutY="43.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Token Generator">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Text>
    </children>
 </AnchorPane>
