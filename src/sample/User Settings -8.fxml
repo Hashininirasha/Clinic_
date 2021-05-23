@@ -10,7 +10,13 @@
    <children>
       <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="500.0" layoutX="-21.0" stroke="#4687d9" strokeType="INSIDE" width="128.0" />
       <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#1f93ff03" height="218.0" layoutX="120.0" layoutY="177.0" stroke="#4687d9" strokeType="INSIDE" width="473.0" />
-      <Text fill="#4687d9" layoutX="176.0" layoutY="53.0" strokeType="OUTSIDE" strokeWidth="0.0" text="User Settings" wrappingWidth="176.41796875">
+       <Text fill="#4687d9" layoutX="129.0" layoutY="87.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Clinicea">
+         <font>
+            <Font name="System Bold" size="68.0" />
+         </font>
+      </Text>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="40.0" layoutX="599.0" layoutY="14.0" stroke="WHITE" strokeType="INSIDE" width="200.0" />
+      <Text fill="#f4f4f4" layoutX="610.0" layoutY="43.0" strokeType="OUTSIDE" strokeWidth="0.0" text="User Settings">
          <font>
             <Font size="24.0" />
          </font>

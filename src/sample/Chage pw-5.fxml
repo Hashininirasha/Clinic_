@@ -9,11 +9,18 @@
 <AnchorPane prefHeight="500.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.GiveToken2">
    <children>
       <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="500.0" layoutX="-21.0" stroke="#4687d9" strokeType="INSIDE" width="128.0" />
-      <Text fill="#4687d9" layoutX="176.0" layoutY="79.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Change Password">
+      <Text fill="#4687d9" layoutX="129.0" layoutY="87.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Clinicea">
+         <font>
+            <Font name="System Bold" size="68.0" />
+         </font>
+      </Text>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="40.0" layoutX="599.0" layoutY="14.0" stroke="WHITE" strokeType="INSIDE" width="200.0" />
+      <Text fill="#f4f4f4" layoutX="610.0" layoutY="43.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Change Password">
          <font>
             <Font size="24.0" />
          </font>
       </Text>
+
       <TextField layoutX="142.0" layoutY="139.0" prefHeight="34.0" prefWidth="256.0" promptText="Old Password" />
       <TextField layoutX="142.0" layoutY="199.0" prefHeight="34.0" prefWidth="256.0" promptText="New Password" />
       <TextField layoutX="142.0" layoutY="262.0" prefHeight="34.0" prefWidth="256.0" promptText="Confirm Password" />
