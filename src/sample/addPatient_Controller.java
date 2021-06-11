@@ -6,7 +6,7 @@ import javafx.scene.control.CheckBox;
 import javafx.scene.control.DatePicker;
 import javafx.scene.control.TextField;
 
-public class Addp_Controller {
+public class addPatient_Controller {
 
     @FXML
     private TextField txtname;
