@@ -4,7 +4,7 @@ import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 
-public class user_details_Controller {
+public class User_Details_Controller {
 
     @FXML
     private Button edit1;
